@@ -1,0 +1,6 @@
+package model;
+
+public enum Category {
+	BUSINESS,ENTERTAINMENT,POLITICS,WORLD,SPORTS,TECHNOLOGY,HEALTH
+
+}
